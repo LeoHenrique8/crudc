@@ -1,0 +1,2 @@
+Sejam bem vindos senhores!
+Para rodar o projeto, imagino que queiram ver o código antes, sugiro abrirem pelo DevC++, e abrirem o projeto através do arquivo 'Projeto1.dev'. Ou caso queiram apenas executar, basta executar o 'Projeto1.exe'
